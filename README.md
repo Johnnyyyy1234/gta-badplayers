@@ -2,30 +2,30 @@ This is a list of players who have been flagged for suspicious activity in the o
 
 ## Detections
 
-**Sound Spam:** repeated playing of loud or disruptive sounds that can only be executed with a mod menu.
+Sound Spam: The repeated emission of loud or disruptive sounds that can only be accomplished using a mod menu.
 
-**Karen:** Kicked another player via a mod menu.
+Karen: A player being forcibly removed from the game by another player using a mod menu.
 
-**Player Godmode:** Player was unable to be damaged. Player was not in an interior - plus a few additional checks.
+Player Invincibility: The player is immune to damage and not located in an interior.
 
-**Session Mismatch:** Triggered when a modder spoofs what session he is in. Only a modder can trigger this.
+Session Tampering: The act of modifying a player's session information through the use of mods.
 
-**RAC:** Triggered Rockstars Anti Cheat. They may or may not be cheating.
+Anti-Cheat Trigger: Activation of the anti-cheat system, indicating a potential violation of game rules.
 
-**Frame Flags:** The player has modified flags on their character - making them invincible to fire, explosions, bullets, etc. Basically a more advanced god mode. Only a modder can trigger Frame Flags.
+Unbreakable Character: Player has altered game flags to make their character immune to damage from fire, explosions, bullets, etc. Only achievable through modding.
 
-**Invalid Object:** A player spawns an object that is invalid and should not be spawned.
+Unauthorized Object Spawn: The appearance of an object in the game that is not meant to be there.
 
-**IP Spoof:** Player has spoofed their IP Address.
+IP Address Alteration: Player has changed their IP address, potentially to hide their identity.
 
-**Vehicle Godmode:** The player's vehicle can not be damaged.
+Vehicle Immunity: Player's vehicle cannot be damaged.
 
-**Altered Host Token:** A player has altered their host token making it easier for them to get host in a session.
+Host Token Manipulation: Player has modified their host token to increase their chances of becoming the host in a session.
 
-**Modded Health:** Players health is above the normal level. (Say the max was 320... they could go past that.)
+Health Modification: Player's health exceeds normal levels, potentially giving them an advantage over other players.
 
-**Player Model Change:** The player has changed their in-game character model to something different.
+Character Model Switch: Player has changed their in-game character model to something different than what they started with.
 
-**Undead Off The Radar:** Player appears dead but can still run around, shoot, kill, drive, etc. These players can not be killed because they are already dead.
+Undead Player: Player appears dead but can still move, shoot, and interact with the game. Cannot be defeated as they are already considered dead.
 
-**Net Sync Crash:** A modder crashes another player.
+Game Crash Causation: A player has caused another player's game to crash through the use of mods.
